@@ -7,6 +7,10 @@ Available heuristics are:
 
 With some extra code to visualize the process using the PIL library to auto-generate the paths taken as gifs.
 
+# Limited Movement
+
 ![Limited movement](result.gif)
+
+# Allow diagonal movement
 
 ![Allowing diagonal movement](result-diagonals.gif)
